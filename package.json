@@ -1,0 +1,25 @@
+{
+  "name": "projectTest",
+  "version": "0.0.0",
+  "description": "nodeJSProjectECE ================",
+  "main": "index.js",
+  "bin": {
+    "projectTest": "start.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leonzmq520/nodeJSProjectECE.git"
+  },
+  "author": "leon",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/leonzmq520/nodeJSProjectECE/issues"
+  },
+  "homepage": "https://github.com/leonzmq520/nodeJSProjectECE",
+  "dependencies": {
+    "express": "~4.10.2"
+  }
+}
