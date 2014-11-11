@@ -10,7 +10,9 @@ module.exports = function(grunt) {
                 'lib/**/*.js',
                 'lib/**/*.json',
                 'bin/**/*.js',
-                'bin/**/*.json'
+                'bin/**/*.json',
+                'routes/**/*.js',
+                'routes/**/*.json'
             ],
             options: {
                 // options here to override JSHint defaults

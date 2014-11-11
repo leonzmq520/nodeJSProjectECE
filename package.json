@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/leonzmq520/nodeJSProjectECE",
   "dependencies": {
-    "express": "~4.10.2"
+    "express": "~4.10.2",
+    "jade": "^1.7.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
